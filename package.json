@@ -1,0 +1,23 @@
+{
+  "name": "kc-rndstr",
+  "version": "1.0.3",
+  "description": "[js] Random string.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaisarCode/js-rndstr.git"
+  },
+  "keywords": [
+    "random",
+    "string"
+  ],
+  "author": "KaisarCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaisarCode/js-rndstr/issues"
+  },
+  "homepage": "https://github.com/KaisarCode/js-rndstr",
+  "dependencies": {
+    "fun2mod": "^1.0.5"
+  }
+}
